@@ -1,0 +1,45 @@
+body {
+            background-color: beige;
+            text-align: center;
+            font-size: 40px;
+            color: darkblue;
+        }
+
+        .h2 {
+            text-align: left;
+            font-size: 30px;
+        }
+
+        .titulo {
+            text-align: justify;
+            color: black;
+            font-size: 30px;
+        }
+
+        p {
+            text-align: justify;
+            color: darkblue;
+            font-size: 30px;
+        }
+
+        li {
+            text-align: left;
+            font-size: 30px;
+        }
+
+        header {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            padding: 10px;
+            background-color: lemonchiffon;
+        }
+
+        header img {
+            width: 60px;
+        }
+
+        .h22 {
+            margin: 0;
+            font-size: 35px;
+        }
